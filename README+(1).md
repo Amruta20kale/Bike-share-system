@@ -11,18 +11,18 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- It is required to prepare data using EDA that is Exploratory Data Analysis, to drop the unnecessary columns and to get necessary data. 
+- Here Model building is done taking 'cnt' as target variable.
+- After model building and residual analysis and have made predictions on the test set. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- "cnt" target variable is linearly dependent on "temp" (temperature) and "yr" (year).
+- There is negative correlation between "cnt" and "windspeed", "holiday", "hum"
+- There is positive correlation between "cnt" and "temp", "workingday", "yr"
+- Bike share demand increases every year, and will be more in winter season and in September month.
+If holidays are less, then demand will be more for bikes. It will be less in spring season, and in July month. Also if weather is cloudy and thunderstorm is there, then demand will be less.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
