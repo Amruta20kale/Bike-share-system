@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Share System
+> Objective is to build a multiple linear regression model for the prediction of demand for shared bikes and understand the factors on which the demand for these shared bikes depends
 
 
 ## Table of Contents
