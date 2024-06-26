@@ -28,9 +28,9 @@ If holidays are less, then demand will be more for bikes. It will be less in spr
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- scikit-learn - version 0.22.1
+- seaborn - version 0.10.0
+- statsmodels.api - version 0.11.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
